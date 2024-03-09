@@ -301,7 +301,7 @@ body {
         }
 
         form{
-            width: 90%;
+            width: 95%;
             font-size: 20px;
         }
 
@@ -312,7 +312,14 @@ body {
 
         /*Footer*/
 
-        
+        footer .linha1{
+            flex-direction: column;
+        }
+
+        footer .enderenco{
+            width: 95%;
+            margin-bottom: 20px;
+        }
     }
 
     
